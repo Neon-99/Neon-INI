@@ -14,6 +14,12 @@ A Lightweight Performance Script For Ark: Survival Ascended
 
 • Adjusts game fidelity settings (wip)
 
+
+# INI Showcase
+
+<video src='https://youtu.be/rqPgq6lBuQc' width=180/>
+
+
 # How To Download
 
 I cannot believe i need to make this section but i've had people ask me how to install the script so here you are xdd
