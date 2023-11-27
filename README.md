@@ -16,12 +16,12 @@ A Lightweight Performance Script For Ark: Survival Ascended
 
 The terminal gives 3 options to select from, selecting 0 will exit the script, selecting 1 will load the INI files into the game, and selecting 3 will remove all traces and files from the game directory
 
-![Terminal Guide](https://ibb.co/9ZYggT4)
+![Terminal Guide](https://cdn.discordapp.com/attachments/1176941837479583756/1178771569036767313/Screenshot_2023-11-26_213210.png?ex=65775b92&is=6564e692&hm=879c33c60f135c1c0696ef5ea150bd6b5ec266d47ec02437949e8473843a239e&)
 
 
 Apply the INI in-game by typing exec X (with the X being a number from the list below)
 
-![Game Terminal Guide](https://ibb.co/z7txP3x)
+![Game Terminal Guide](https://cdn.discordapp.com/attachments/1176941837479583756/1178771583184162897/Screenshot_2023-11-26_213614.png?ex=65775b95&is=6564e695&hm=d7d20be04bb166148c46456655ddf1a6ccf9894bbf9fda7237b0802edb02cc7d&)
 
 
 # INI Settings
