@@ -4,6 +4,10 @@ A Lightweight Performance Script For Ark: Survival Ascended
 # Features
 • Auto INI Installation and Uninstallation via the script terminal
 
+• Auto drive/game location detection
+
+• No administrator permissions required (anymore, thank chatgpt for that one)
+
 • In-game switchable INIs via the game terminal
 
 • Auto-Repairs game files 
@@ -43,6 +47,6 @@ Apply the INI in-game by typing exec X (with the X being a number from the list 
 
 # Known Issues
 
-• The file will be flagged as a virus and requires you to disable your antivirus, i can assure you that my INI isn't malicious and i am working to find a solution
+• ̶ ̶T̶h̶e̶ ̶f̶i̶l̶e̶ ̶w̶i̶l̶l̶ ̶b̶e̶ ̶f̶l̶a̶g̶g̶e̶d̶ ̶a̶s̶ ̶a̶ ̶v̶i̶r̶u̶s̶ ̶a̶n̶d̶ ̶r̶e̶q̶u̶i̶r̶e̶s̶ ̶y̶o̶u̶ ̶t̶o̶ ̶d̶i̶s̶a̶b̶l̶e̶ ̶y̶o̶u̶r̶ ̶a̶n̶t̶i̶v̶i̶r̶u̶s̶,̶ ̶i̶ ̶c̶a̶n̶ ̶a̶s̶s̶u̶r̶e̶ ̶y̶o̶u̶ ̶t̶h̶a̶t̶ ̶m̶y̶ ̶I̶N̶I̶ ̶i̶s̶n̶'̶t̶ ̶m̶a̶l̶i̶c̶i̶o̶u̶s̶ ̶a̶n̶d̶ ̶i̶ ̶a̶m̶ ̶w̶o̶r̶k̶i̶n̶g̶ ̶t̶o̶ ̶f̶i̶n̶d̶ ̶a̶ ̶s̶o̶l̶u̶t̶i̶o̶n̶  (Some genius on discord helped me fix this)
 
 • Switching from different INI settings while in-game will cause the foliage and mesh textures to be replaced with the UE5 'no material' texure, this is an engine limitaion and as such i cannot do much to prevent this, though it does increase performance xD, a fix for this is to leave and rejoin the server, or only switch INI settings while at the main menu
