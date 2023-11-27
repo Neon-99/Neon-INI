@@ -10,6 +10,12 @@ A Lightweight Performance Script For Ark: Survival Ascended
 
 • Adjusts game fidelity settings (wip)
 
+# How To Download
+
+I cannot believe i need to make this section but i've had people ask me how to install the script so here you are xdd
+
+![install guide](https://cdn.discordapp.com/attachments/1176941837479583756/1178773520872898620/ezgif-1-f107fbecae.png?ex=65775d63&is=6564e863&hm=af69c4255327a1eb90cd19cb12a76da6d9e526ab6e5695bac974153dd119ccd4&)
+
 
 # How To Use
 
