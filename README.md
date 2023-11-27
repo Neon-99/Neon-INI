@@ -17,8 +17,7 @@ A Lightweight Performance Script For Ark: Survival Ascended
 
 # INI Showcase
 
-<video src='https://youtu.be/rqPgq6lBuQc' width=180/>
-
+[![Watch the video](https://i.pinimg.com/736x/56/d8/96/56d8969340a430c76cb5e7f1c85e0125.jpg)](https://youtu.be/rqPgq6lBuQc)
 
 # How To Download
 
