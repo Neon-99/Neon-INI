@@ -14,7 +14,7 @@ A Lightweight Performance Script For Ark: Survival Ascended
 
 I cannot believe i need to make this section but i've had people ask me how to install the script so here you are xdd
 
-![install guide](https://cdn.discordapp.com/attachments/1176941837479583756/1178773520872898620/ezgif-1-f107fbecae.png?ex=65775d63&is=6564e863&hm=af69c4255327a1eb90cd19cb12a76da6d9e526ab6e5695bac974153dd119ccd4&)
+![install guide](https://cdn.discordapp.com/attachments/1176941837479583756/1178774293589540917/ezgif-1-f107fbecae.gif?ex=65775e1c&is=6564e91c&hm=e75b197fb64d437caa5f269a83e731b2085c2c4985deae1a4a76152f9936aadb&)
 
 
 # How To Use
