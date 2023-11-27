@@ -19,7 +19,7 @@ The terminal gives 3 options to select from, selecting 0 will exit the script, s
 ![Terminal Guide](https://ibb.co/9ZYggT4)
 
 
-Apply the INI in-game by typing exec X (with the X being a number from the list below the image)
+Apply the INI in-game by typing exec X (with the X being a number from the list below)
 
 ![Game Terminal Guide](https://ibb.co/z7txP3x)
 
