@@ -14,7 +14,7 @@ A Lightweight Performance Script For Ark: Survival Ascended
 # How To Use
 
 
-The terminal gives 3 options to select from, selecting 0 will exit the script, selecting 1 will load the INI files into the game, and selecting 3 will remove all traces and files from the game directory
+The terminal gives 3 options to select from, selecting 0 will exit the script, selecting 1 will load the INI files into the game, and selecting 2 will remove all traces and files from the game directory
 
 ![Terminal Guide](https://cdn.discordapp.com/attachments/1176941837479583756/1178771569036767313/Screenshot_2023-11-26_213210.png?ex=65775b92&is=6564e692&hm=879c33c60f135c1c0696ef5ea150bd6b5ec266d47ec02437949e8473843a239e&)
 
