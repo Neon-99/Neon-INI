@@ -47,6 +47,8 @@ Apply the INI in-game by typing exec X (with the X being a number from the list 
 
 • INI Setting 3 (exec 3) disables all mesh and foliage material, disables all shadows and most particle effects. This results in a poor, barren landscape meant only for **absolute garbage** computers, would not recommend for any sane individual
 
+• INI Setting 4 (exec 4) Removes All Mesh And Foliage, literal wallhax :p
+
 (More settings will be added in the very near future, including a no water INI and no tree INI)
 
 
